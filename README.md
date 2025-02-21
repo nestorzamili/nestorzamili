@@ -23,8 +23,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img alt="GitHub Stats" width="33%" src="https://github-readme-stats.vercel.app/api?username=nestorzamili&show_icons=true&theme=radical"/>
-  <img alt="Top Languages" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestorzamili&layout=compact&theme=radical"/>
+  <img alt="GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nestorzamili&show_icons=true&theme=radical"/>
+  <img alt="Top Languages" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestorzamili&layout=compact&theme=radical"/>
 </p>
 
 ---
