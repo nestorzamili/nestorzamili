@@ -8,8 +8,6 @@
 🔹 Currently working on **web automation, backend development, and API integrations**  
 🔹 Always eager to learn new **technologies and frameworks**  
 
-🌍 **Visit my website:** [nestorzamili.works](https://nestorzamili.works)  
-
 ---
 
 ### 🛠️ Tech Stack
@@ -25,13 +23,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img alt="GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=nestorzamili&show_icons=true&theme=radical"/>
-  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestorzamili&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nestorzamili&theme=radical"/>
-  <img alt="GitHub Contribution Graph" width="47%" src="https://github-readme-activity-graph.cyclic.app/graph?username=nestorzamili&theme=radical"/>
+  <img alt="GitHub Stats" width="33%" src="https://github-readme-stats.vercel.app/api?username=nestorzamili&show_icons=true&theme=radical"/>
+  <img alt="Top Languages" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestorzamili&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -40,4 +33,3 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nestorzamili.works)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nestorzamili)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nestorzamili)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nestorzamili)
