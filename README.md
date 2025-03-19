@@ -1,6 +1,6 @@
-![github-header-image](https://res.cloudinary.com/samunu/image/upload/v1742225181/github-header-image_jjlsz0.png)
+![github-header-image](https://res.cloudinary.com/samunu/image/upload/v1742361769/github-header-image_tjpukm.png)
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Nestor.;I'm+a+back-end+developer." alt="typing intro">
+<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Nestor.;I'm+Just+a+Guy+Who+Loves+APIs." alt="typing intro">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nestorzamili&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
 
