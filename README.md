@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Nestor.;I'm+Just+a+Guy+Who+Loves+APIs." alt="typing intro">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nestorzamili&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nestorzamili&label=Profile%20views&color=0e75b6&style=flat-square" alt="nestorzamili" /></p>
 
 ---
 
@@ -26,15 +26,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img alt="GitHub Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nestorzamili&show_icons=true&theme=radical"/>
-  <img alt="Top Languages" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestorzamili&layout=compact&theme=radical"/>
-</p>
-
----
-
 ### 📫 Let's Connect!
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nestorzamili.works)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nestorzamili)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nestorzamili)
