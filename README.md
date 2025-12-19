@@ -1,30 +1,47 @@
-![github-header-image](https://res.cloudinary.com/samunu/image/upload/v1742361769/github-header-image_tjpukm.png)
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Nestor.;I'm+Just+a+Guy+Who+Loves+APIs." alt="typing intro">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nestorzamili&label=Profile%20views&color=0e75b6&style=flat-square" alt="nestorzamili" /></p>
+# Nestor Zamili
+**Software Engineer — Platform & Delivery**
+
+I work on deploying, operating, and troubleshooting production systems.
+My focus is building reliable delivery pipelines, running Kubernetes workloads,
+and understanding how applications behave in real production environments.
 
 ---
 
-### 🚀 About Me
-🔹 Passionate about **software development, automation, and open-source projects**  
-🔹 Experienced in **RPA, Node.js, Python, SQL, and cloud computing**  
-🔹 Currently working on **web automation, backend development, and API integrations**  
-🔹 Always eager to learn new **technologies and frameworks**  
+### 🧠 What I Do
+
+- Design and maintain CI/CD pipelines (Jenkins, Bitbucket, GitHub Actions)
+- Deploy and operate applications on Kubernetes using Helm
+- Troubleshoot production issues across containerized services
+- Support backend services with a production-first mindset
+- Build fullstack applications to improve operational understanding
+
+---
+### 🛠 Core Stack
+
+**Platform & Delivery**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Application & Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🔗 Connect
 
----
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nestorzamili)
+- 🌐 Website: https://zamili.dev
+- 💼 LinkedIn: https://linkedin.com/in/nestor-zamili
